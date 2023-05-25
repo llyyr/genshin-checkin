@@ -1,4 +1,4 @@
 # genshin-checkin
-cronjob script for claiming daily and redeeming codes
+cronjob script for claiming daily.
 
-set `GENSHIN_COOKIES` env variable with cookies from the gift page.
+set `GENSHIN_COOKIES` env variable with your cookies containing `ltuid` and `ltoken`.
